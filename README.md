@@ -11,4 +11,4 @@ I manage open source software projects in higher education. My work sits at the 
 Translate research goals into development roadmaps. Coordinate cross-functional teams of developers, designers, and scholars. Write user stories, manage sprint cycles, and keep distributed teams aligned. Oversee project budgets, timelines, and stakeholder communication.
 
 **Background:**
-Ph.D. in Religious Studies with 15+ years in higher education spanning grants administration, student success programming, and community engagement. Currently based in Springfield, MO.
+Ph.D. in the Humanities with 15+ years in higher education spanning grants administration, student success programming, and community engagement. Currently based in Springfield, MO.
